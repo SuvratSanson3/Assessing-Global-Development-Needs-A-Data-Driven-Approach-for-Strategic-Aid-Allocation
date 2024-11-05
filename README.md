@@ -1,0 +1,2 @@
+# Assessing-Global-Development-Needs-A-Data-Driven-Approach-for-Strategic-Aid-Allocation
+This project employs unsupervised machine learning to categorize countries based on socio-economic and health factors, reflecting their overall development. By analyzing the data, we aim to identify countries in dire need of assistance, enabling HELP International to allocate its $10 million aid effectively and strategically.
